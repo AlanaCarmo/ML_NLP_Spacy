@@ -1,2 +1,2 @@
-# ML_NLP_Spacy-Basico_tokenizer
+# ML_NLP_Spacy
 Treino com funções básicas de tokenização com spacy
